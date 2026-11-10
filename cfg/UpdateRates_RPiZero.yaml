@@ -1,0 +1,12 @@
+/**:
+  ros__parameters:
+    # default MSP update rates for Raspberry Pi Zero
+
+    MSP_ALTITUDE: 30.0
+    MSP_ANALOG: 0.1
+    MSP_ATTITUDE: 200.0
+    MSP_MOTOR: 10.0
+    MSP_RAW_IMU: 100.0
+    MSP_RC: 10.0
+    MSP_SERVO: 1.0
+    MSP_STATUS: 10.0
